@@ -1,3 +1,7 @@
+# NOTICE MUST READ!!!!!!!!!!
+# YOU MUST DOWNLAOD THE ZIP AND OPEN IT TO START USING THIS CHATROOM SERVICE!! A WEBSITE ALTERNATIVE MAY BE ALTERNATIVE LATER IN THE FUTURE
+
+
 # Eclipse-Air_Official_Chat_Rooms
 A chat service for the Eclipse Air Organization meant for passengers and staff members.
 
