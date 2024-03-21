@@ -2,12 +2,25 @@
 <html>
     <link rel="stylesheet" href="Fart.Css">
     <body>
+        <script>
+            var password = "Theseliner";
+            (function passcodeprotect() {
+               var passcode = prompt("You are entering a staff area, if you have the staff password, please enter it now.");
+               while (passcode !== password) {
+                  alert("Incorrect Passcode");
+                  return passcodeprotect();
+               }
+            }());
+            alert('Password Correct!');
+         </script>
         <h1> Servers </h1>
+
         <a href="Eclipses Air.html"> Main Passenger Channel </a>
         <a href="spedkey.html">General Staff Channel</a>
         <a href="Overseer.html">Overseer Channel</a>
         <a href="Main Meeting Channel.html"> Meeting Channel Main </a>
         <a href="OverseerChannel.html"> Meeting Channel Overseer </a>
+        <a href="Public.html">Back to public rooms </a>
 
         <h1>
             Databases
